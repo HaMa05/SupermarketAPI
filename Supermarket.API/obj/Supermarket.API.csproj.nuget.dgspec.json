@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CODE\\Medium\\Supermarket.API\\Supermarket.API.csproj": {}
+    "E:\\Supermaket\\SupermarketAPI\\Supermarket.API\\Supermarket.API.csproj": {}
   },
   "projects": {
-    "E:\\CODE\\Medium\\Supermarket.API\\Supermarket.API.csproj": {
+    "E:\\Supermaket\\SupermarketAPI\\Supermarket.API\\Supermarket.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CODE\\Medium\\Supermarket.API\\Supermarket.API.csproj",
+        "projectUniqueName": "E:\\Supermaket\\SupermarketAPI\\Supermarket.API\\Supermarket.API.csproj",
         "projectName": "Supermarket.API",
-        "projectPath": "E:\\CODE\\Medium\\Supermarket.API\\Supermarket.API.csproj",
-        "packagesPath": "C:\\Users\\vanha\\.nuget\\packages\\",
-        "outputPath": "E:\\CODE\\Medium\\Supermarket.API\\obj\\",
+        "projectPath": "E:\\Supermaket\\SupermarketAPI\\Supermarket.API\\Supermarket.API.csproj",
+        "packagesPath": "C:\\Users\\bvha\\.nuget\\packages\\",
+        "outputPath": "E:\\Supermaket\\SupermarketAPI\\Supermarket.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vanha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bvha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,6 +54,10 @@
                 "NU1605"
               ]
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -77,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

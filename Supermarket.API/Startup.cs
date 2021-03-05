@@ -11,6 +11,11 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Supermarket.API.Domain.Repositories;
+using Supermarket.API.Domain.Services;
+using Supermarket.API.Persistence.Contexts;
+using Supermarket.API.Persistence.Repositories;
+using Supermarket.API.Services;
 
 namespace Supermarket.API
 {
@@ -32,6 +37,13 @@ namespace Supermarket.API
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Supermarket.API", Version = "v1" });
             });
+
+            //services.AddDbContext<AppDbContext>(options => {
+            //    options.UseInMemoryDatabase("supermarket-api-in-memory");
+            //});
+
+            services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<ICategoryRespository, CategoryRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

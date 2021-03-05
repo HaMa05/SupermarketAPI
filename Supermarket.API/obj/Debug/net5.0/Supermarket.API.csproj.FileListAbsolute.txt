@@ -35,3 +35,13 @@ E:\CODE\Medium\Supermarket.API\obj\Debug\net5.0\Supermarket.API.dll
 E:\CODE\Medium\Supermarket.API\obj\Debug\net5.0\ref\Supermarket.API.dll
 E:\CODE\Medium\Supermarket.API\obj\Debug\net5.0\Supermarket.API.pdb
 E:\CODE\Medium\Supermarket.API\obj\Debug\net5.0\Supermarket.API.genruntimeconfig.cache
+E:\Supermaket\SupermarketAPI\Supermarket.API\obj\Debug\net5.0\Supermarket.API.csprojAssemblyReference.cache
+E:\Supermaket\SupermarketAPI\Supermarket.API\obj\Debug\net5.0\Supermarket.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Supermaket\SupermarketAPI\Supermarket.API\obj\Debug\net5.0\Supermarket.API.AssemblyInfoInputs.cache
+E:\Supermaket\SupermarketAPI\Supermarket.API\obj\Debug\net5.0\Supermarket.API.AssemblyInfo.cs
+E:\Supermaket\SupermarketAPI\Supermarket.API\obj\Debug\net5.0\Supermarket.API.csproj.CoreCompileInputs.cache
+E:\Supermaket\SupermarketAPI\Supermarket.API\obj\Debug\net5.0\Supermarket.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Supermaket\SupermarketAPI\Supermarket.API\obj\Debug\net5.0\Supermarket.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Supermaket\SupermarketAPI\Supermarket.API\obj\Debug\net5.0\Supermarket.API.dll
+E:\Supermaket\SupermarketAPI\Supermarket.API\obj\Debug\net5.0\ref\Supermarket.API.dll
+E:\Supermaket\SupermarketAPI\Supermarket.API\obj\Debug\net5.0\Supermarket.API.pdb
